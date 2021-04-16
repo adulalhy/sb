@@ -44,7 +44,7 @@ const speedTest = require('@lh2020/speedtest-net');
 const { Utils_1 } = require('./node_modules/@adiwajshing/baileys/lib/WAConnection/Utils')
 
 prefix = 'z'
-fake = '*LitRHap-SELF*'
+fake = '*AdulAlhy-SELF*'
 numbernye = '0'
 targetprivate = '918119971193'
 blocked = []            
@@ -313,7 +313,7 @@ Waktu :* ${moment.unix(int.timestamp).format('HH:mm:ss DD/MM/YYYY')}
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["918119971193@s.whatsapp.net"] // ganti nomer lu
+			const ownerNumber = ["6281390199407@s.whatsapp.net"] // ganti nomer lu
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const totalchat = await client.chats.all()
@@ -1283,7 +1283,7 @@ case 'payments':
 			}
 		}
 	}
-	client.sendMessage(from, `──「 *PAYMENT* 」──\n\n- Gopay : 0895-2325-8649\n- Pulsa : 0895-2325-8649 (+5K)\n\n──「 *SELF-BOT* 」──`, MessageType.text, selepbot)
+	client.sendMessage(from, `──「 *PAYMENT* 」──\n\n- Dana : 0812-9810-8109\n- Pulsa : 0858-7844-7826 (+5K)\n\n──「 *SELF-BOT* 」──`, MessageType.text, selepbot)
 	break
 case 'neko':
 	{
